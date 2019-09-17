@@ -1,5 +1,7 @@
 # awesome-point-cloud-analysis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration](https://arxiv.org/pdf/1905.04153.pdf)
+
 for anyone who wants to do research about 3D point cloud.   
 
 If you find the awesome paper/code/dataset or have some suggestions, please contact linhua2017@ia.ac.cn. Thanks for your valuable contribution to the research community :smiley:   
