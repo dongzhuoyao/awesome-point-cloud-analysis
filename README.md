@@ -3,6 +3,8 @@
 - [DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration](https://arxiv.org/pdf/1905.04153.pdf)
 - [Points2Pix: 3D Point-Cloud to Image
 Translation using conditional GANs](https://arxiv.org/pdf/1901.09280.pdf)
+- [Self-Supervised Deep Learning on Point Clouds by
+Reconstructing Space](https://arxiv.org/pdf/1901.08396.pdf)
 
 
 for anyone who wants to do research about 3D point cloud.   
